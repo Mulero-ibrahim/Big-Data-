@@ -48,7 +48,9 @@ As a dedicated data scientist tasked with advising government agencies on road s
 
 ## GitHub Repository
 
-For a detailed walkthrough of the analysis and code implementation, refer to the provided Jupyter Notebooks and Python scripts in this (https://github.com/Mulero-ibrahim/big-data-/blob/main/Big%20Data%20project.ipynb). Feel free to explore, analyze, and contribute to the ongoing efforts to enhance road safety through data-driven insights.
+For a detailed walkthrough of the analysis and code implementation, refer to the provided Jupyter Notebooks and Python scripts in this (https://github.com/Mulero-ibrahim/big-data-/blob/main/Big%20Data%20project.ipynb).
+Visuals can been viewed in the Report (https://github.com/Mulero-ibrahim/Data-Science-project-Big-data-/blob/main/BIG%20DATA%20PROJECT%20REPORT.pdf).
+Feel free to explore, analyze, and contribute to the ongoing efforts to enhance road safety through data-driven insights.
 
 Your feedback and contributions are highly appreciated.
 
